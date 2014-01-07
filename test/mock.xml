@@ -1,0 +1,624 @@
+<service>
+   <responsecode>0</responsecode>
+   <timestamp>1/7/2014 8:21:00 AM</timestamp>
+   <subway>
+      <line>
+         <name>123</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P&gt;Due to signal problems at &lt;STRONG&gt;125 St&lt;/STRONG&gt;, northbound [2]Â and [3] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:01AM</Time>
+      </line>
+      <line>
+         <name>456</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P&gt;Due to weather related conditions, southbound [6] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time&lt;/P&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:01AM</Time>
+      </line>
+      <line>
+         <name>7</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P&gt;Due to ongoing signal problems at &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt;, Times Sq-bnd [7] trains are delayed. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:01AM</Time>
+      </line>
+      <line>
+         <name>ACE</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>BDFM</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>G</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>JZ</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>L</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Morgan Av&lt;/STRONG&gt;, [L] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:15AM</Time>
+      </line>
+      <line>
+         <name>NQR</name>
+         <status>SANDY REROUTE</status>
+         <text>&lt;span class="TitleServiceChange" &gt;Sandy Reroute&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;STRONG&gt;[FF]&lt;BR&gt;[R] No trains between Whitehall St and Downtown Brooklyn - Take the [N] instead&lt;BR&gt;Transfer between [N] and [R] trains at Canal St and Atlantic Av-Barclays Ctr&lt;BR&gt;&lt;/STRONG&gt;Weekdays until Oct 2014&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:01AM</Time>
+      </line>
+      <line>
+         <name>S</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Broad Channel&lt;/STRONG&gt;,Â Rockaway Park [S] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:06AM</Time>
+      </line>
+      <line>
+         <name>SIR</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+   </subway>
+   <bus>
+      <line>
+         <name>B1 - B84</name>
+         <status>SERVICE CHANGE</status>
+         <text>&lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:01AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P&gt;&lt;STRONG&gt;B24 &amp; B62&lt;/STRONG&gt; buses are detoured due to the closures of the &lt;STRONG&gt;Kosciuszko &amp; Polaski Bridges. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B24 Westbound:&lt;/STRONG&gt; Via 48 St, right on 56 Rd, left on Review Av, left on Greenpoint Av Bridge, left on Humboldt St, left on Meeker Av, right on Kingsland Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B24 Eastbound:&lt;/STRONG&gt; Via Kingsland Av, right on Greenpoint Av Bridge, right on Review Av, right on 56 Rd, left on 48 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B62 Westbound:&lt;/STRONG&gt; Via Jackson Av, left on 21 St, left on 49 Av, right on 27 St, left on Borden Av, right on Starr St, right on Van Dam St, right on Greenpoint Av Bridge, left on Huron St, left on Manhattan Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B62 Eastbound:&lt;/STRONG&gt; Via Manhattan Av, right on Greenpoint Av, left on review Av, left on Borden Av, right on 27 St, left on 49 Av, right on 21 St, right on Jackson Av and regular route. &lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;&lt;/body&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:01AM</Time>
+      </line>
+      <line>
+         <name>B100 - B103</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>BM1 - BM5</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>BX1 - BX55</name>
+         <status>SERVICE CHANGE</status>
+         <text>&lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P&gt;&lt;STRONG&gt;Bx1, Bx2 &amp; BxM3&lt;/STRONG&gt; buses are detoured due to a water main break on &lt;STRONG&gt;Sedgwick Av&lt;/STRONG&gt; between&lt;STRONG&gt; Ft Independence &amp; Van Cortlandt Pk W. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx1 Northbound:&lt;/STRONG&gt; Via Sedgwick Av, right on Van Cortlandt Park W, left on Bailey Av, right on 231 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx1 Southbound:&lt;/STRONG&gt; Via 231 St, left on Bailey Av, right on Van Cortlandt Park W, left on Sedgwick Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx2 Northbound:&lt;/STRONG&gt; Via Sedgwick Av, right on Van Cortlandt Park W, left on Bailey Av, left on 238 St, left on Ft Independence Av, right on Sedgwick Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx2 Southbound:&lt;/STRONG&gt; Via Sedgwick Av, left on Ft Independence Av, right on 238 St, right on Bailey Av, right on Van Cortlandt Park W, left on Sedgwick Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BxM3 Northbound:&lt;/STRONG&gt; Via Sedgwick Av, left on Ft. Independence Av, right on 238 St, right on Bailey Av, left on Van Cortlandt Park S and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BxM3 Southbound:&lt;/STRONG&gt; Via Van Cortlandt Park S, right on Bailey Av, left on 238 St, left on Ft Independence Av, right on Sedgwick Av and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;&lt;/body&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(50152);&gt;
+&lt;b&gt;Bx9, Bx12, Bx12SBS and Bx22 temporary bus stop change at Fordham Plaza
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 50152 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to &lt;i&gt;construction&lt;/i&gt;, the northbound &lt;b&gt;Bx9&lt;/b&gt; and &lt;b&gt;Bx22 &lt;/b&gt;bus
+&lt;br&gt;stop on&lt;b&gt; Fordham Rd&lt;/b&gt; at &lt;b&gt;3 Av&lt;/b&gt; will be made on &lt;b&gt;Fordham
+&lt;br&gt;Rd &lt;/b&gt;between &lt;b&gt;Washington &lt;/b&gt;and &lt;b&gt;3 Avs.
+&lt;br&gt;
+&lt;br&gt;Bx12&lt;/b&gt; and &lt;b&gt;Bx12SBS &lt;/b&gt;bus stops on &lt;b&gt;Fordham Rd&lt;/b&gt; between
+&lt;br&gt;&lt;b&gt;Webster&lt;/b&gt; and &lt;b&gt;3 Avs&lt;/b&gt; will be made on &lt;b&gt;Fordham Rd&lt;/b&gt; at
+&lt;br&gt;&lt;b&gt;Washington Av &lt;/b&gt;in both directions.
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time.
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:02AM</Time>
+      </line>
+      <line>
+         <name>BXM1 - BXM18</name>
+         <status>SERVICE CHANGE</status>
+         <text>&lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P&gt;&lt;STRONG&gt;Bx1, Bx2 &amp; BxM3&lt;/STRONG&gt; buses are detoured due to a water main break on &lt;STRONG&gt;Sedgwick Av&lt;/STRONG&gt; between&lt;STRONG&gt; Ft Independence &amp; Van Cortlandt Pk W. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx1 Northbound:&lt;/STRONG&gt; Via Sedgwick Av, right on Van Cortlandt Park W, left on Bailey Av, right on 231 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx1 Southbound:&lt;/STRONG&gt; Via 231 St, left on Bailey Av, right on Van Cortlandt Park W, left on Sedgwick Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx2 Northbound:&lt;/STRONG&gt; Via Sedgwick Av, right on Van Cortlandt Park W, left on Bailey Av, left on 238 St, left on Ft Independence Av, right on Sedgwick Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx2 Southbound:&lt;/STRONG&gt; Via Sedgwick Av, left on Ft Independence Av, right on 238 St, right on Bailey Av, right on Van Cortlandt Park W, left on Sedgwick Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BxM3 Northbound:&lt;/STRONG&gt; Via Sedgwick Av, left on Ft. Independence Av, right on 238 St, right on Bailey Av, left on Van Cortlandt Park S and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BxM3 Southbound:&lt;/STRONG&gt; Via Van Cortlandt Park S, right on Bailey Av, left on 238 St, left on Ft Independence Av, right on Sedgwick Av and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;&lt;/body&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:02AM</Time>
+      </line>
+      <line>
+         <name>M1 - M116</name>
+         <status>SERVICE CHANGE</status>
+         <text>&lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P&gt;&lt;STRONG&gt;M9&lt;/STRONG&gt; buses are detoured due to road work on Murray St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Church St, left on Reade St, left on W Broadway, right on Chambers St, left on West St and then regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;&lt;/body&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(59859);&gt;
+&lt;b&gt;M4 buses - Temporary bus stop closure on Broadway and 122 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 59859 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to &lt;i&gt;construction&lt;/i&gt;, customers are advised
+&lt;br&gt;to board southbound buses on &lt;b&gt;Broadway
+&lt;br&gt;&lt;/b&gt;and &lt;b&gt;121 St&lt;/b&gt;.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:02AM</Time>
+      </line>
+      <line>
+         <name>Q1 - Q113</name>
+         <status>PLANNED WORK</status>
+         <text>&lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(51471);&gt;
+&lt;b&gt;Q18 Temporary bus stop bypass on 58 St at 39 Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 51471 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to &lt;i&gt;construction&lt;/i&gt;, customers are advised to board
+&lt;br&gt;southbound buses on &lt;b&gt;58 St&lt;/b&gt; at &lt;b&gt;Woodside Av&lt;/b&gt;.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:13AM</Time>
+      </line>
+      <line>
+         <name>QM1 - QM25</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>S40 - S98</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>x1 - x68</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <Date />
+         <Time />
+      </line>
+   </bus>
+   <BT>
+      <line>
+         <name>Throgs Neck</name>
+         <status>SERVICE CHANGE</status>
+         <text>&lt;SPAN style="FONT-FAMILY: 'Calibri','sans-serif'; FONT-SIZE: 11pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;&lt;STRONG&gt;Due to high winds and road conditions motorists are asked to drive at reduced speeds&lt;/STRONG&gt;&lt;/SPAN&gt;</text>
+         <url />
+         <Date>01/06/2014</Date>
+         <Time>11:21PM</Time>
+      </line>
+      <line>
+         <name>Henry Hudson</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date>01/06/2014</Date>
+         <Time>5:45PM</Time>
+      </line>
+      <line>
+         <name>Marine Parkway</name>
+         <status>SERVICE CHANGE</status>
+         <text>&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Calibri','sans-serif'; COLOR: #1f497d; FONT-SIZE: 11pt"&gt;"&lt;/SPAN&gt;&lt;B&gt;&lt;SPAN style="FONT-FAMILY: 'Calibri','sans-serif'; FONT-SIZE: 11pt"&gt;Due to high winds and road conditions motorists are asked to drive at reduced speedsâ€&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;</text>
+         <url />
+         <Date>01/07/2014</Date>
+         <Time>12:09AM</Time>
+      </line>
+      <line>
+         <name>Bronx-Whitestone</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date>01/07/2014</Date>
+         <Time>7:11AM</Time>
+      </line>
+      <line>
+         <name>Hugh L. Carey</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date>01/06/2014</Date>
+         <Time>5:45PM</Time>
+      </line>
+      <line>
+         <name>Queens Midtown</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date>01/06/2014</Date>
+         <Time>5:45PM</Time>
+      </line>
+      <line>
+         <name>Robert F. Kennedy</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date>01/06/2014</Date>
+         <Time>5:45PM</Time>
+      </line>
+      <line>
+         <name>Cross Bay</name>
+         <status>SERVICE CHANGE</status>
+         <text>&lt;SPAN style="FONT-FAMILY: 'Calibri','sans-serif'; FONT-SIZE: 11pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;&lt;STRONG&gt;Due to high winds and road conditions motorists are asked to drive at reduced speeds&lt;/STRONG&gt;&lt;/SPAN&gt;</text>
+         <url />
+         <Date>01/06/2014</Date>
+         <Time>11:33PM</Time>
+      </line>
+      <line>
+         <name>Verrazano-Narrows</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date>01/07/2014</Date>
+         <Time>6:29AM</Time>
+      </line>
+   </BT>
+   <LIRR>
+      <line>
+         <name>Babylon</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>City Terminal Zone</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>Far Rockaway</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>Hempstead</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>Long Beach</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;
+
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span&gt;The 7:29AM train from Atlantic Terminal due Long Beach at 8:22AM is operating 12 minutes late from Jamaica due to a late-arriving connection.&lt;br&gt;&lt;br&gt;The 8:03AM train from Long Beach due Penn at 8:54AM is being cancelled due to switch trouble at Long Beach. Customers accommodated by the 8:08AM train from Long Beach due Penn at 9:02AM&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>Montauk</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>Oyster Bay</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;
+
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:41AM train from Oyster Bay due Hunterspoint Ave. at 8:55AM is cancelled due to equipment trouble. Customers will be accommodated by the 8:16AM from Oyster Bay due Long Island City 9:36AM.&lt;br&gt;&lt;br&gt;The 7:13AM train from Oyster Bay due Long Island City at 8:34AM is operating 34 minutes late from Oyster Bay due to signal trouble west of Oyster Bay.
+                &lt;br/&gt;&lt;br/&gt;
+
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:06AM train from Jamaica due Oyster Bay at 9:03AM will be delayed up to 30 minutes due to signal trouble. Customers can take the 7:39AM from Penn to Ronkonkoma (departs Jamaica 8:01AM) and transfer at Mineola for bus service to Oyster Bay.
+                &lt;br/&gt;&lt;br/&gt;
+
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The Oyster Bay Branch is experiencing westbound delays up to 30 minutes due to signal trouble west of Oyster Bay. Crews are on scene and troubleshooting the problem.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>Port Jefferson</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>Port Washington</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>Ronkonkoma</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+      <line>
+         <name>West Hempstead</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays of up to 10 minutes in and out of Penn Station due to cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <Date>01/07/2014</Date>
+         <Time>8:18AM</Time>
+      </line>
+   </LIRR>
+   <MetroNorth>
+      <line>
+         <name>Hudson</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date>01/07/2014</Date>
+         <Time>4:59AM</Time>
+      </line>
+      <line>
+         <name>Harlem</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>Wassaic</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>New Haven</name>
+         <status>DELAYS</status>
+         <text>&lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 7:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Customers traveling westbound between Bridgeport and Stamford may experience delays of up to 20 minutes due to weather-related conditions. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <url />
+         <Date>01/07/2014</Date>
+         <Time>7:35AM</Time>
+      </line>
+      <line>
+         <name>New Canaan</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>Danbury</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>Waterbury</name>
+         <status>GOOD SERVICE</status>
+         <text />
+         <url />
+         <Date />
+         <Time />
+      </line>
+      <line>
+         <name>Pascack Valley</name>
+         <status>SERVICE CHANGE</status>
+         <text>&lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  NJ TRANSIT will offer systemwide cross-honoring on Tuesday, January 7 and Wednesday, January 8 due to extreme cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <url />
+         <Date>01/07/2014</Date>
+         <Time>8:13AM</Time>
+      </line>
+      <line>
+         <name>Port Jervis</name>
+         <status>SERVICE CHANGE</status>
+         <text>&lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Main-Bergen County Line train #1102 the 6:02am from Passaic Station is cancelled. Passengers to train #44 to accommodate passengers to Hoboken.
+                &lt;br/&gt;&lt;br/&gt;
+
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2014&amp;nbsp; 8:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  NJ TRANSIT will offer systemwide cross-honoring on Tuesday, January 7 and Wednesday, January 8 due to extreme cold weather conditions.
+                &lt;br/&gt;&lt;br/&gt;</text>
+         <url />
+         <Date>01/07/2014</Date>
+         <Time>8:13AM</Time>
+      </line>
+   </MetroNorth>
+</service>

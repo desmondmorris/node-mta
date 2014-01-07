@@ -1,7 +1,7 @@
 {
   "name": "mta",
   "version": "0.0.1",
-  "description": "A library that gets MTA service status",
+  "description": "A library that retrieves MTA data",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -12,6 +12,15 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:desmondmorris/node-mta.git"
+  },
+  "dependencies": {
+    "request": "~2.30.0",
+    "xml2js": "~0.4.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.16.0",
+    "should": "~2.1.1",
+    "nock": "~0.27.1"
   },
   "keywords": [
     "mta",
