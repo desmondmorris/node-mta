@@ -1,0 +1,26 @@
+{
+  "name": "mta",
+  "version": "0.0.1",
+  "description": "A library that gets MTA service status",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:desmondmorris/node-mta.git"
+  },
+  "keywords": [
+    "mta",
+    "subway",
+    "nyc"
+  ],
+  "author": "Desmond Morris <hi@desmondmorris.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desmondmorris/node-mta/issues"
+  }
+}
