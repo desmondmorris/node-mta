@@ -15,8 +15,16 @@ npm install mta
 ```JavaScript
 var mta = require('mta')();
 
-// Get current MTA service status
+// Get status for all services
 mta.status(function(err, status){
+  if (err) throw err;
+
+  console.log(status);
+});
+
+
+// Get status for the subway system
+mta.status('subway', function(err, status){
   if (err) throw err;
 
   console.log(status);
