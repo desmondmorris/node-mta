@@ -33,3 +33,4 @@ mta.status('subway', function(err, status){
 
 ## Changelog
 * **0.0.1**: Initial version
+* **0.0.2**: Adds ability to return service status by type
